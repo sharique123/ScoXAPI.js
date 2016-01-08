@@ -1,4 +1,4 @@
-# ScoXAPI.js
+# ScoXaPI.js
 E-Learning course connection to LMS.
 
 There are three major method of tracking learner's lesson data to a Learning management systems.
@@ -24,7 +24,7 @@ Otherwise known by its working name, TinCan, the Experience API (xAPI) specifica
 
 The Experience API “is an e-learning software specification that allows learning content and learning systems to speak to each other in a manner that records and tracks all types of learning experiences. Learning experiences are recorded in a Learning Record Store (LRS). LRSs can exist within traditional Learning Management Systems (LMSs) or on their own.”
 
-#ScoXApi
+#ScoXapi
 
 This javascript api will allow to call set of function and the api will communicate with respective LMS.
 
