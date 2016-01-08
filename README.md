@@ -1,4 +1,4 @@
-# ScoXaPI.js
+# ScoXapi.js
 E-Learning course connection to LMS.
 
 There are three major method of tracking learner's lesson data to a Learning management systems.
