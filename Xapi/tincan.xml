@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <activities>
+        <activity id="http://cloud.scorm.com/tnw/#ID" type="course">
+            <name lang="en-US">@Model.CourseTitle</name>
+            <description lang="en-US">@Model.CourseTitle</description>
+            <launch lang="en-US">index.html</launch>
+        </activity>
+    </activities>
+</tincan>

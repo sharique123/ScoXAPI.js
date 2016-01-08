@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>ScoXapi Example</title>
+        <style type="text/css" media="screen">
+        html, body {
+            height: 100%;
+            background-color: #ffffff;
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        </style>
+        <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+        <script type="text/javascript" src="js/json3.min.js"></script>
+        <script type="text/javascript" src="js/jquery.aicc.js"></script>
+        <script type="text/javascript" src="js/ScoXapi.js"></script>
+        <script type="text/javascript">
+        function HandleLoad() {
+            ScoXapi.SetLMS("Local");
+            ScoXapi.Initialize(function(){console.log("Initialized")});
+        }
+        </script>
+    </head>
+    <body onload="HandleLoad()">
+    ScoXapi Example.
+    </body>
+</html>

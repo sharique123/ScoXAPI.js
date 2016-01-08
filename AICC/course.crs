@@ -1,0 +1,13 @@
+[Course]
+Course_Creator=Navex Global 
+Course_ID=MANIFEST-ScoXapi
+Course_System=ReadyTraining
+Course_Title=ScoXapi AICC Example
+Level=1
+Max_Fields_CST=2
+Total_AUs=1
+Total_Blocks=0
+Version=3.0
+[Course_Behavior]
+Max_Normal=99
+[Course_Description]
